@@ -1,0 +1,39 @@
+Jeu set sur android
+
+compiler pour test 
+main.py
+
+compiler pour executable 
+buildozer android debug
+
+But jeu :
+
+Jeu set avec plusieurs possibilitées de jeu depuis un menu
+
+Classique(1min)
+Chrono 5min
+Inifini 
+Chrono 8min
+5 paires
+Cauchemard (mode quadruplet relié par 
+une carte non presente sur le plateau)
+multijoueur(gestion joueur par deux plateau separés)
+Deck complet
+
+
+
+fonctionnalités basiques du jeu :
+pause, regles generales
+fontionnalités optionnelles
+tutoriel, sauvegarde du score par lancement de jeu
+best score par jeu (stat)
+
+
+
+
+a mettre dans le .spec : orientation paysage et nom jeu 
+
+
+
+A CODER
+bouton fin Inifini
